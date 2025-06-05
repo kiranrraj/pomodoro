@@ -1,0 +1,20 @@
+# Framework
+fastapi[all]
+uvicorn[standard]
+
+# Pydantic v2 & settings management
+pydantic
+pydantic-settings
+
+# MongoDB
+pymongo
+
+# JanusGraph / Gremlin
+gremlinpython
+
+# MinIO (S3-compatible)
+minio
+
+# Configuration & Logging
+loguru
+python-dotenv

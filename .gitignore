@@ -36,6 +36,9 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# Logs
+logs/
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
@@ -130,6 +133,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
+venv-pomodoro-backend/
 env/
 venv/
 ENV/
